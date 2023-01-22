@@ -1,0 +1,14 @@
+/* Write your code here. */
+.heading {
+  color: #cb8805;
+  font-size: 23px;
+}
+.Cont {
+  height: 100vh;
+  background-color: #f1f5f8;
+}
+.whiteCont {
+  height: 100vh;
+  background-color: white;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
